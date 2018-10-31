@@ -30,3 +30,16 @@
     transform: rotate(360deg);
   }
 }
+.header_class {
+  color: red;
+  background-color: black;
+}
+
+.body {
+  display: flex;
+  justify-content: space-around;
+}
+.body-child{
+  border: 2px solid red;
+  width: 50%;
+}
